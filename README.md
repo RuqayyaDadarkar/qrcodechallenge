@@ -1,3 +1,3 @@
 # qrcodechallenge
 
-A challenge on frontendmentor.io to pratice HTML and CSS skills.
+A challenge on frontendmentor.io to practice HTML and CSS skills.
